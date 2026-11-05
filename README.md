@@ -1,10 +1,12 @@
 # Руководство пользователя
-<div align="center">
-**MathQuiz** - представляет собой мини математический тест из четырёх задач: сложения, вычитания, умножения и деления на время.
+<strong>MathQuiz</strong> - представляет собой мини математический тест из четырёх задач: сложения, вычитания, умножения и деления на время.
+
 >[Сделанно по инструкции в рамках колледжа](https://learn.microsoft.com/ru-ru/visualstudio/get-started/csharp/tutorial-windows-forms-math-quiz-create-project-add-controls?view=visualstudio)
 ---
-  
+<div align="center">
+
 В начале вас встретит начальный экран, чтобы начать тест нажмите на `Start the quiz`
+
 <img src="https://github.com/ANYTKA-23/MathQuiz/blob/main/%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D0%BE.png" width="300">
 
 
